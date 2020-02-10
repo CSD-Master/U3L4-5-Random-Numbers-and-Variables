@@ -3,11 +3,12 @@
 # Git stuff
 git-curr-branch:
 git-prev-branch: 
-# Link to an external lesson (e.g., a lesson on Code.org or TestOut).
-lesson:
+# Links to the external lesson(s) (e.g., a lesson on Code.org or TestOut).
+lesson1: https://studio.code.org/s/csd3-2019/stage/4/puzzle/1
+lesson2: https://studio.code.org/s/csd3-2019/stage/5/puzzle/1
 # If not empty, display the text at the top of the page (or wherever the template does the include of outcome.html)
 # below the tabs
-outcome:
+outcome: You can declare, initialize, and use variables in GameLab (JavaScript). You understand the difference between declaring and using variables in expressions.
 # Link to lesson slides, displayed on Resources tab if not empty.
 slides:
 # Name and URL of repository holding the starter code for this assignment.
@@ -16,4 +17,4 @@ starter-code-repo:
 starter-code-url:
 # Link to Google Doc template for assignment submission. Replace the end of the link "edit?..." with "copy"
 # to force creating a copy when the link is clicked.
-template:
+template: https://docs.google.com/document/d/1JVetQJ-bMQ9q7yvmSkIDEzrRp7tUK-JLrt_KDZ4T_jk/copy
