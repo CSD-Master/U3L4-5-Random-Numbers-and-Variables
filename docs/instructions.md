@@ -4,7 +4,8 @@ layout: tabbed-assignment
 
 # Instructions
 
-
+1. Work through [Lesson 4: Shapes and Randomization][lesson1] to learn about **parameters** to functions and generating random numbers with the `randomNumber()` block.
+1. Then, in [Lesson 5: Variables][lesson2], you'll explore storing **values** in variables so that you can reuse them. Giving variables names also helps to make your programs more readable.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead. -->
 
