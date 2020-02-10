@@ -6,7 +6,10 @@ layout: tabbed-assignment
 
 <img class="overview-image" src="">
 
-Describe what students will be doing and provide, or expand upon, the assignment outcome.
+In this lesson we'll start to explore another of the essential elements of programs: **variables.**
+We'll see how variables allow us to store and reuse **values** in our programs.
+Variablse can also be used as **parameters** in functions such as `rect()`, `elipse()`' and `color()` to control the
+function's behavior.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
